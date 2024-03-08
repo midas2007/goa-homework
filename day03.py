@@ -1,21 +1,14 @@
-my_name = "demuri"
-my_surname = "rexviashvili"
-print(my_name,my_surname)
-my_name = "nato"
-my_surname ="kacelashvili"
-print(my_name,my_surname)
-my_name = "giorgi"
-my_surname = "rexviashvili"
-print(my_name,my_surname)
-my_name = "nika"
-my_surname = "rexviashvili"
-print(my_name,my_surname)
-my_name = "dato"
-my_surname = "rexviashvili"
-print(my_name,my_surname)
-my_name = "luka"
-my_surname = "rexviashvili"
-print(my_name,my_surname)
-my_name = "dachi"
-my_surname = "rexviashvili"
-print(my_name,my_surname)
+print"wake up"
+printwake up
+print wake)
+print,wakeup
+print(wake:up)
+print"wake up)
+print wake up
+print)wake
+print)wake(up)
+print)()))wakey
+print(wak:up)
+print_wake up
+print_:("")
+print(()wak"e)
